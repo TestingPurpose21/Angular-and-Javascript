@@ -2,4 +2,4 @@ This is my code
 
 Now i will make commit and after that do some change then commit
 
-done some , This was wrong
+done some , This was wrong, added some feature
